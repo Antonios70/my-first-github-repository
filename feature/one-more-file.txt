@@ -1,0 +1,1 @@
+This one-more-file.txt was created on remote repository (but there was also a modification locally to another-file.txt)
